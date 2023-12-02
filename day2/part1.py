@@ -45,11 +45,4 @@ for game in GAMES:
     if possible:
         sum += int(id)
 
-    
-    # if CUBES["red"] < amounts["red"] or CUBES["green"] < amounts["green"] or CUBES["blue"] < amounts["blue"]:
-    #     print(id, False)
-    # else:
-    #     sum += int(id)
-    #     print(id, True)
-
 print(sum)
