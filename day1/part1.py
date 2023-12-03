@@ -1,6 +1,9 @@
+#tried:
+#54927 answer
+
 import re
 
-f = open("dag1/input.txt")
+f = open("day1/input.txt")
 INPUT = f.readlines()
 
 total = 0

@@ -1,3 +1,6 @@
+#tried:
+#2776 answer
+
 f = open("day2/input.txt")
 
 CUBES = {

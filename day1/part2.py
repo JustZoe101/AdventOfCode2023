@@ -1,4 +1,7 @@
-f = open("dag1/input.txt")
+#tried:
+#54581 answer
+
+f = open("day1/input.txt")
 INPUT = f.readlines()
 NUMBERS = [
     "1",
